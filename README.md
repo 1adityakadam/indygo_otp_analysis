@@ -1,8 +1,7 @@
 # Indygo On-Time Performance Analysis
 This On-Time Performance Dashboard in PowerBI will focus on analyzing service reliability by measuring the percentage of trips operating within a specified threshold of their scheduled time. It will provide insights into OTP trends across timeframes, route categories, and individual routes, serving as a cornerstone of the broader open data vision.
 
-
-<img width= 1080 src='https://github.com/user-attachments/assets/74176ec0-0049-4c45-af8c-fd44b372ef8b'>
+<img width= 1080 src='https://github.com/user-attachments/assets/36123a47-bffd-4c12-b79e-e4baa08cfc6a'>
 
 
 **Business Questions – On time Performance**
